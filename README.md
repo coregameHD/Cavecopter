@@ -2,7 +2,7 @@
 Simple helicopter game created by Python/Pygame
 
 ### Description
-This game, Cavecopter, is simple but addictive game. Guide the helicopter through the cave without hitting walls or obstacles. Click and hold left mouse to go up/ Release to go down. Player can collect :heart: for power up.
+This game, Cavecopter, is simple but addictive game. Guide the helicopter through the cave without hitting spikes or obstacles. Click and hold left mouse to go up/ Release to go down. Player can collect :heart: for +1 Life.
 
 ![Cavecopter Screenshot](http://i.imgur.com/8MBjXGu.png "Screenshot")
 
